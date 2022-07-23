@@ -1,6 +1,6 @@
 # Tagalog-Word-Syllabification-Python
 
-This program syllabifies (break down into syllables) Tagalog words.
+This program breaks down Tagalog words into syllables.
 
 Usage
 --------------------
