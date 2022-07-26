@@ -1,4 +1,4 @@
-# Tagalog-Word-Syllabification-Python
+# Tagalog-Word-Syllabization-Python
 
 This program breaks down Tagalog words into syllables.
 
